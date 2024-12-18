@@ -1,2 +1,2 @@
 # Annual-Climate-Predictions-
-The system will be using ideas based on National Oceanic and Atmospheric Administration (NOAA). This organization uses the same technique to make seasonal and annual predictions but it is used only in their research labs. 
+The system will be using ideas based on National Oceanic and Atmospheric Administration (NOAA). This organization uses the same technique to make seasonal and annual predictions but it is used only in their research labs. Using the historic and current data and applying data mining technique on it would result in accurate prediction of the parameters as it is already being done in NOAA. Along with that, providing android application to common people with a good enough range of parameters will make the system successful.
